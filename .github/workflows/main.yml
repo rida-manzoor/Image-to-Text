@@ -16,5 +16,5 @@ jobs:
           lfs: true
       - name: Push to hub
         env:
-          HF_TOKEN: ${{secrets.HF}}
+          HF_TOKEN: ${{ secrets.HF }}
         run: git push --force https://rida-manzoor:$HF@huggingface.co/spaces/rida-manzoor/assignment_4 main
