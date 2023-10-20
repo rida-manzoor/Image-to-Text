@@ -1,12 +1,12 @@
-# Image-to-text
 
 ---
-title: Image to Text
-emoji: 🪐
-colorFrom: Grey
-colorTo: Pink
-sdk: Gradio
+title: Image To Text App
+emoji: 🌖
+colorFrom: grey
+colorTo: pink
+sdk: streamlit
 sdk_version: 1.27.2
 app_file: app.py
 pinned: false
+license: cc
 ---
