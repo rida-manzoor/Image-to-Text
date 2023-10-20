@@ -1,12 +1,12 @@
 # Image-to-text
 
 ---
-title: {{title}}
-emoji: {{emoji}}
-colorFrom: {{colorFrom}}
-colorTo: {{colorTo}}
-sdk: {{sdk}}
-sdk_version: {{sdkVersion}}
+title: Image to Text
+emoji: 🪐
+colorFrom: Grey
+colorTo: Pink
+sdk: Gradio
+sdk_version: 1.27.2
 app_file: app.py
 pinned: false
 ---
